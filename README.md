@@ -14,8 +14,4 @@ log4j.appender.out.File=/logs/sistema.log
 
 <br/>
 
-Por padrão Log de nível ERROR são sempre gravador no Log. Confirmar!
-
-<br/>
-
-:simple_smile:
+Por padrão Log de nível ERROR são sempre gravador no Log. Confirma?
