@@ -1,4 +1,4 @@
-# study-log4j
+# study-log4j :simple_smile:
 
 ```
 log4j.logger.com.teste=INFO
