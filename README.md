@@ -1,4 +1,4 @@
-# study-log4j :simple_smile:
+# study-log4j
 
 ```
 log4j.logger.com.teste=INFO
@@ -15,3 +15,7 @@ log4j.appender.out.File=/logs/sistema.log
 <br/>
 
 Por padrão Log de nível ERROR são sempre gravador no Log. Confirmar!
+
+<br/>
+
+:simple_smile:
