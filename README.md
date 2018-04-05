@@ -10,6 +10,8 @@ log4j.logger.com.teste=INFO
 ```
 log4j.appender.out.File=/logs/sistema.log
 ```
-> Caminho e nome do arquivo de log a ser gerado__
+> Caminho e nome do arquivo de log a ser gerado
+
+<br/>
 
 Por padrão Log de nível ERROR são sempre gravador no Log. Confirmar!
